@@ -1,0 +1,120 @@
+@font-face{
+	font-family: "myfont";
+	src: url('myfont.ttf');
+}
+.header{
+	height: 95px;
+	width: 1350px;
+	background-color: #c53240;
+	padding-top: 10px;
+	display: flex;
+}
+.main1{
+	width: 1350px;
+	height: 450px;
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+}
+.main2{
+	width: 1350px;
+	height: 450px;
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+}
+.main3{
+	width: 1350px;
+	height: 450px;
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+}
+.social{
+	height: 80px;
+	width: 1350px;
+	background-color: violet;
+	background-color: #c53240;
+}
+.content{
+	height: 450px;
+	width: 675px;
+	background-size: cover;
+	background-image: url('b2.jpg');
+}
+.content1{
+	height: 450px;
+	width: 675px;
+}
+.content2{
+	height: 450px;
+	width: 675px;
+}
+.content3{
+	height: 450px;
+	width: 675px;
+	background-size: cover;
+	background-image: url('4.jpg');
+}
+.content4{
+	height: 450px;
+	width: 675px;
+	
+	background-image: url('aa.jpg');
+	background-size: cover;
+}
+.content5{
+	height: 450px;
+	width: 675px;
+}
+.logo{
+	width: 220px;
+	height: 70px;
+	font-size: 25px;
+	margin-left: 45px;
+	margin-bottom: 5px;
+}
+a{
+	margin-left: 20px;
+	text-decoration: none;
+	font-size: 23px;
+	font-family: myfont;
+	color: black;
+}
+.links{
+	margin-left: 400px;
+ 	margin-top: 35px;
+ 	font-size: 20px;
+ }
+ body{
+ 	color: black;
+ 	font-family: Arial;
+
+ }
+ .logo h2{
+ 	font-family: myfont;
+ }
+ .inst{
+ 	width: 60px;
+ 	margin-top: 10px;
+ }
+ .contact{
+ 	margin-left: 1000px;
+ 	display: flex;
+ }
+ .contact h3{
+ 	font-family: myfont;
+ 	color: black;
+ 	margin-top: 32px;
+ 	font-size: 22px;
+ }
+ .text{
+ 	font-size: 20px;
+ }
+ .margin-h2{
+ 	margin-top: 60px;
+ 	margin-left: 8px;
+ }
+ .margin-p{
+ 	margin-left: 8px;
+ }
